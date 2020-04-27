@@ -2,4 +2,4 @@
 A quiz app
 
 ### Demo
-![](screenrecord.gif)
+<a href="https://imgflip.com/gif/3yab3b">via Imgflip</a>
