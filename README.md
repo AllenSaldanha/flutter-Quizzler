@@ -2,4 +2,4 @@
 A quiz app
 
 ### Demo
-![](screenrecord.gif)
+![](Quizzler_screenrec.gif)
